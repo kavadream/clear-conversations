@@ -1,0 +1,112 @@
+{
+  "title": "把话说清楚：普通人的关键对话",
+  "version": "draft-v0.1",
+  "status": "original-ai-assisted-draft-not-author-approved",
+  "files": [
+    {
+      "path": "CONTENT-LICENSE.md",
+      "bytes": 2283,
+      "sha256": "84d2be2e7207294d66a07ba21257ce747dd3049bc401922a1751c182e0b8b607"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 1749,
+      "sha256": "9d6b1412fe07c5c9e1fd08741c10d8b49b68488d4bf400b7a7a91845bc48c173"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2965,
+      "sha256": "ab44585cb625ebdb16c7844d1962b911668a681d61d5b7e3c4a47c38fc954564"
+    },
+    {
+      "path": "book.json",
+      "bytes": 2048,
+      "sha256": "278fe9a5520401b69440bdb899e49351848b418598f56c98d2b47ef353739799"
+    },
+    {
+      "path": "dist/reader-manuscript.md",
+      "bytes": 91167,
+      "sha256": "45da51e3b1b8f629b57567425d31e3687f473e6b2debc2ac35f9c3fc4db0054c"
+    },
+    {
+      "path": "manuscript/00-preface.md",
+      "bytes": 2658,
+      "sha256": "de9c6319b3a0d6dece1833fe09a022037d29dd2f255604c23514847bb3841510"
+    },
+    {
+      "path": "manuscript/01-purpose.md",
+      "bytes": 7134,
+      "sha256": "02b2007d2ed661f14ac4ab2a7b3f9c1f4dbc2ba76f4865992324a3230f771cb6"
+    },
+    {
+      "path": "manuscript/02-request.md",
+      "bytes": 6327,
+      "sha256": "2d1ae7a3371e6ff0ce38c66556d1ea298815df82bf105e9023bdae4241e7912d"
+    },
+    {
+      "path": "manuscript/03-division.md",
+      "bytes": 6199,
+      "sha256": "f259a87bcb67b65572814782bbaa4914bd4361664b284aaa3780481ddf28d987"
+    },
+    {
+      "path": "manuscript/04-misunderstanding.md",
+      "bytes": 6254,
+      "sha256": "975a9cf200bc05860121348d37ec9a2308e1ab7fc7f2f79028e8b26b9d3c9c8c"
+    },
+    {
+      "path": "manuscript/05-disagreement.md",
+      "bytes": 6196,
+      "sha256": "8df1cf7f1e36226ec2c97a1d395bb2e036c479d3451323c798035f96cba6e2f6"
+    },
+    {
+      "path": "manuscript/06-meetings.md",
+      "bytes": 6574,
+      "sha256": "c9cbc8fc2f463824901e98188c070ca9adae1fedaa7d7b389ebd660162dbe4bc"
+    },
+    {
+      "path": "manuscript/07-messages.md",
+      "bytes": 6402,
+      "sha256": "17c5978f2c130cbf0b1be7b19fe9bae06c8ce53a85fab8b66b5ffe2dd5df6ca8"
+    },
+    {
+      "path": "manuscript/08-home.md",
+      "bytes": 6181,
+      "sha256": "d1103a0bd30a4a3fbf73aa8adb2d05c8fd08bcd404851c2afab14457b9d85eb4"
+    },
+    {
+      "path": "manuscript/09-service.md",
+      "bytes": 6619,
+      "sha256": "e84fa1bf0b0b8127d7705616914c326c4caf3114688d6431b74e813ceb1b1e75"
+    },
+    {
+      "path": "manuscript/10-power.md",
+      "bytes": 6837,
+      "sha256": "6eb5b981e6b660c2ada42288f7633698bb7bff84acf072396bebd1f88e133877"
+    },
+    {
+      "path": "manuscript/11-stop.md",
+      "bytes": 6353,
+      "sha256": "11cf4f06ef458a5a52024908a462b1d650e28baae9a360bf1177dfe839e8dd94"
+    },
+    {
+      "path": "manuscript/12-followup.md",
+      "bytes": 7279,
+      "sha256": "1cfa4b93b299c5a75166481ab840dae18d5ad35dfd39ebf1f1c4df012486a776"
+    },
+    {
+      "path": "scripts/build.py",
+      "bytes": 1461,
+      "sha256": "31e8411f21df3293a7f2f6adbb6c8f35eb94a2bd38a48e658da9c371754981c7"
+    },
+    {
+      "path": "scripts/check.py",
+      "bytes": 1923,
+      "sha256": "1b6a80fde5cafdb72fbe3bd6b20a3904987cf04efa08cf75feca4773fd7458e6"
+    },
+    {
+      "path": "sources/README.md",
+      "bytes": 7843,
+      "sha256": "83d1e998686bcf2d5339b2f74b7dd283ebbd02a548e31a0deea57f5a5108defe"
+    }
+  ]
+}

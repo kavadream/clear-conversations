@@ -1,0 +1,70 @@
+{
+  "title": "把话说清楚：普通人的关键对话",
+  "author": "KK",
+  "language": "zh-CN",
+  "version": "draft-v0.1",
+  "status": "original-ai-assisted-draft-not-author-approved",
+  "preface": "manuscript/00-preface.md",
+  "chapters": [
+    {
+      "id": "ch01",
+      "title": "第一章 开口以前 先确定这次要谈哪件事",
+      "file": "manuscript/01-purpose.md"
+    },
+    {
+      "id": "ch02",
+      "title": "第二章 提出一个对方能够回答的请求",
+      "file": "manuscript/02-request.md"
+    },
+    {
+      "id": "ch03",
+      "title": "第三章 谈分工时 把交接处也谈进去",
+      "file": "manuscript/03-division.md"
+    },
+    {
+      "id": "ch04",
+      "title": "第四章 解释误会 先找出理解从哪里分开",
+      "file": "manuscript/04-misunderstanding.md"
+    },
+    {
+      "id": "ch05",
+      "title": "第五章 提出异议时 让别人知道你反对哪一步",
+      "file": "manuscript/05-disagreement.md"
+    },
+    {
+      "id": "ch06",
+      "title": "第六章 开会时 把讨论和决定分开",
+      "file": "manuscript/06-meetings.md"
+    },
+    {
+      "id": "ch07",
+      "title": "第七章 发文字消息时 别让对方替你补语气和背景",
+      "file": "manuscript/07-messages.md"
+    },
+    {
+      "id": "ch08",
+      "title": "第八章 家庭里的时间和钱 怎样谈得具体而不冷淡",
+      "file": "manuscript/08-home.md"
+    },
+    {
+      "id": "ch09",
+      "title": "第九章 遇到服务问题 把不满变成能够处理的事项",
+      "file": "manuscript/09-service.md"
+    },
+    {
+      "id": "ch10",
+      "title": "第十章 面对有权决定你处境的人 怎样开口",
+      "file": "manuscript/10-power.md"
+    },
+    {
+      "id": "ch11",
+      "title": "第十一章 谈不成以后 不必无限重复同一场对话",
+      "file": "manuscript/11-stop.md"
+    },
+    {
+      "id": "ch12",
+      "title": "第十二章 话说完以后 让约定接得上行动",
+      "file": "manuscript/12-followup.md"
+    }
+  ]
+}
