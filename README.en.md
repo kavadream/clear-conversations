@@ -8,7 +8,7 @@ A Chinese-language practical book about conversations needed to get everyday thi
 
 Clarity does not guarantee consent. The book distinguishes understanding, agreement, commitment, and action. Its stories and dialogue are original fiction, not the author's reported experiences or research cases. The book draws on several research and practice traditions without claiming that one communication formula solves every problem.
 
-The current edition contains a preface, twelve complete Chinese chapters, exercises, and source notes. The author has accepted its content; it is not a final publication or a tested intervention. No complete English translation is included.
+The current edition contains a preface, twelve complete Chinese chapters, exercises, and source notes. The author has accepted its content; it is not a final publication or a tested intervention. A complete AI-assisted English translation preview is now available below; native-English review is pending.
 
 [Read the Chinese manuscript](dist/reader-manuscript.md) · [Contents](README.md) · [Sources and limitations](sources/README.md) · [Rights notice](CONTENT-LICENSE.md)
 
@@ -24,3 +24,9 @@ python3 scripts/check.py
 ```
 
 This release supplies Markdown sources and a combined reading version, not PDF or EPUB files. Public availability does not mean the material is licensed under MIT or Creative Commons.
+
+## Read the English Translation Preview
+
+[Complete English manuscript](translations/en/book.md) · [Contents, sources, and correction guidance](translations/en/README.md) · [English copyright notice](translations/en/COPYRIGHT.md)
+
+This is a complete AI-assisted translation preview. No human target-language review has been performed. KK's first language is Chinese, and corrections from native English readers are welcome through this repository's Issues or pull requests. The Chinese content has been accepted by the author; the English translation remains a preview pending native-English review. Existing permissions remain in force.

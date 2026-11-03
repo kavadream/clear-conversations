@@ -10,13 +10,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 1920,
-      "sha256": "7707b0690695137fb58e24a81b0737ce41812559e403b05b83d7fb2a1689fb06"
+      "bytes": 2624,
+      "sha256": "c36ee055f71a2137daeb9a1a9c3c6ddbf3d76108d1ad77d97fbe868d1a21e830"
     },
     {
       "path": "README.md",
-      "bytes": 3090,
-      "sha256": "2fa42e5b66a4f7ebaafa217553b275355e159a6461aba80b1b7ea43f259084b9"
+      "bytes": 3663,
+      "sha256": "7f3675d5121b2eb78d265c104512ba59fec5274244a5256ecf782b69aac82235"
     },
     {
       "path": "book.json",
@@ -107,6 +107,21 @@
       "path": "sources/README.md",
       "bytes": 7843,
       "sha256": "83d1e998686bcf2d5339b2f74b7dd283ebbd02a548e31a0deea57f5a5108defe"
+    },
+    {
+      "path": "translations/en/COPYRIGHT.md",
+      "bytes": 1645,
+      "sha256": "995e302f069fc02e974216c3aba06e7fccd068ed8b63bdc7a266fb8cdcc369c2"
+    },
+    {
+      "path": "translations/en/README.md",
+      "bytes": 4232,
+      "sha256": "bca2d1ee385f1d36e02fbe938879328cfe528e3e0e63c67efa636835a943d272"
+    },
+    {
+      "path": "translations/en/book.md",
+      "bytes": 116551,
+      "sha256": "f5acddad7fa9915a066734ff09cea5c403e789a9cf7373057072850630d2a9c0"
     }
   ]
 }
