@@ -1,12 +1,14 @@
 # Clear Conversations: Everyday Conversations That Matter
 
-**Author: KK · Original AI-assisted draft · draft v0.1 · Not yet author-approved**
+**Author: KK · Original AI-assisted draft · draft v0.1 · Content accepted by author**
+
+The manuscript and rights notice retain their original first-draft wording. The current content-review status is stated here and in the metadata.
 
 A Chinese-language practical book about conversations needed to get everyday things done: making requests, agreeing on responsibilities, correcting misunderstandings, raising concerns, running meetings, writing messages, discussing household arrangements, and deciding what to do when agreement is not possible.
 
 Clarity does not guarantee consent. The book distinguishes understanding, agreement, commitment, and action. Its stories and dialogue are original fiction, not the author's reported experiences or research cases. The book draws on several research and practice traditions without claiming that one communication formula solves every problem.
 
-The current edition contains a preface, twelve complete Chinese chapters, exercises, and source notes. It is a review draft, not a final publication or a tested intervention. No complete English translation is included.
+The current edition contains a preface, twelve complete Chinese chapters, exercises, and source notes. The author has accepted its content; it is not a final publication or a tested intervention. No complete English translation is included.
 
 [Read the Chinese manuscript](dist/reader-manuscript.md) · [Contents](README.md) · [Sources and limitations](sources/README.md) · [Rights notice](CONTENT-LICENSE.md)
 

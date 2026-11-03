@@ -1,7 +1,7 @@
 {
   "title": "把话说清楚：普通人的关键对话",
   "version": "draft-v0.1",
-  "status": "original-ai-assisted-draft-not-author-approved",
+  "status": "original-ai-assisted-draft-content-accepted-by-author",
   "files": [
     {
       "path": "CONTENT-LICENSE.md",
@@ -10,18 +10,18 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 1749,
-      "sha256": "9d6b1412fe07c5c9e1fd08741c10d8b49b68488d4bf400b7a7a91845bc48c173"
+      "bytes": 1920,
+      "sha256": "7707b0690695137fb58e24a81b0737ce41812559e403b05b83d7fb2a1689fb06"
     },
     {
       "path": "README.md",
-      "bytes": 2974,
-      "sha256": "016c950c9a66d9c9b0fdf5a2dc32f15c27d460eebe19c844dfb68bb560d039ed"
+      "bytes": 3090,
+      "sha256": "2fa42e5b66a4f7ebaafa217553b275355e159a6461aba80b1b7ea43f259084b9"
     },
     {
       "path": "book.json",
-      "bytes": 2048,
-      "sha256": "278fe9a5520401b69440bdb899e49351848b418598f56c98d2b47ef353739799"
+      "bytes": 2055,
+      "sha256": "9104774e961908089be13ecb85ddef3bf312a14a4ac1cae72789a68840b0c48b"
     },
     {
       "path": "dist/reader-manuscript.md",
